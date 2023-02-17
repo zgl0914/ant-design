@@ -9,6 +9,7 @@ const treeData = [
       {
         value: 'parent 1-0',
         title: 'parent 1-0',
+        radioable
         children: [
           {
             value: 'leaf1',
